@@ -47,4 +47,4 @@ const Work = () => {
   )
 }
 
-export default Work
+export default Work;
